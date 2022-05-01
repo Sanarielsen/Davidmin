@@ -1,0 +1,211 @@
+.color-primary {
+
+    background-color: #000000;
+}
+
+.color-secondary {
+
+    background-color: gray;
+}
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO CABEÇALHO-------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+.painel_cabecalho {
+    
+    min-height: 700px;
+    width: auto; 
+}
+
+.sessao_cabecalho {
+
+    min-height: 700px;
+}
+
+.linha_cabecalho {
+
+    min-height: 700px;
+}
+
+.fundo_cabecalho {    
+
+    background-image: url("assets/images/backgrounds/background_cabecalho3.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.txaDescricaoCabecalho {
+
+    max-width: 400px;
+}
+
+.panelApresentacaoSite {
+
+    background: hsla(0, 0%, 100%, 0.3) /* Green background with 30% opacity */
+}
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO PALESTRAS-------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+
+.fundo_palestras {
+
+    background-image: url("assets/images/backgrounds/background_palestras2.jpg");
+}
+
+.preset-imagem {
+
+    background-image: url("assets/images/backgrounds/background_palestras2.jpg");
+}
+
+.preset-altura {
+
+    min-height: 500px !important;
+}
+
+.preset-fundo-centralizado {
+
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.palestra-font {
+
+    color: white; 
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.slide {
+
+    background-color: #fff;
+}
+
+.slide-hidden {
+
+    display: none;
+}
+
+.slide-control {
+
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+}   
+
+.slide-control:hover {
+
+    background-color: gray;
+}   
+
+.slide-control-ativo {
+
+    background-color: green;
+} 
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO LIVROS----------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+.painel_livros {
+
+    min-height: 700px;
+}
+
+.fundo_livros {
+
+    background-image: url("assets/images/backgrounds/background_livros1.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.linha_livros {
+
+    min-height: 680px;
+}
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO CURSOS----------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+.painel_cursos {
+
+    min-height: 700px;
+}
+
+.linha_cursos {
+
+    min-height: 600px !important;
+}
+
+.fundo_cursos {
+
+    background-image: url("assets/images/backgrounds/background_cursos.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO INSCRICOES------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+.linha_inscricao {
+
+    min-height: 720px !important;
+}
+
+.fundo_inscricao {
+
+    background-image: url("assets/images/backgrounds/background_inscricao1.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO CONTATO---------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+
+.linha_contato {
+
+    min-height: 400px;
+}
+
+.fundo_contato {
+
+    background-image: url("assets/images/backgrounds/background_contato.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.image_separador_redes {
+    
+    height: 400;
+}
+
+.image_icone_redes {
+
+    width: 100;
+    height: 100;
+}
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO RODAPÉ----------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/

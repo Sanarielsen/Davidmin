@@ -1,0 +1,265 @@
+.panel-principal {
+
+    min-height: 800px;
+}
+
+.panel-principal-2 {
+
+    min-height: 600px;
+}
+
+.panel-config-menu {
+
+    margin-top: 58px;
+}
+
+.link-custom {
+
+    text-decoration: none !important;
+}
+
+.color-primary {
+
+    background-color: #000000;
+}
+
+.color-secondary {
+
+    background-color: gray;
+}
+
+.btn-config {
+
+    min-width: 800px !important;
+}
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO CABEÇALHO-------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+.painel_cabecalho {
+    
+    min-height: 700px;
+    width: auto; 
+}
+
+.sessao_cabecalho {
+
+    min-height: 700px;
+}
+
+.linha_cabecalho {
+
+    min-height: 700px;
+}
+
+.fundo_cabecalho {    
+
+    background-image: url("assets/images/backgrounds/background_cabecalho.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.txaDescricaoCabecalho {
+
+    max-width: 400px;
+}
+
+.fundo-texto {
+
+    background: hsla(0, 0%, 100%, 0.3) /* Green background with 30% opacity */
+}
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO PALESTRAS-------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+.panel-palestras {
+
+    min-height: 700px !important;
+}
+
+.fundo_palestras {
+
+    background-image: url("assets/images/backgrounds/background_palestras.jpg");
+}
+
+.palestra-imagem {
+
+    height: 420px !important;
+}
+
+.palestras-descricao {
+
+    height: 200px !important;
+}
+
+.preset-imagem {
+
+    background-image: url("assets/images/backgrounds/background_palestras.jpg");
+}
+
+.preset-altura {
+
+    min-height: 500px !important;
+}
+
+.preset-fundo-centralizado {
+
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.palestra-font {
+
+    color: white; 
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.slide {
+
+    background-color: #fff;
+}
+
+.slide-hidden {
+
+    display: none;
+}
+
+.slide-control {
+
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+}   
+
+.slide-control:hover {
+
+    background-color: gray;
+}   
+
+.slide-control-ativo {
+
+    background-color: green;
+} 
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO LIVROS----------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+.painel_livros {
+
+    min-height: 800px;
+}
+
+.fundo_livros {
+
+    background-image: url("assets/images/backgrounds/background_livro.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.linha_livros {
+
+    min-height: 680px;
+}
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO CURSOS----------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+.painel-cursos {
+
+    min-height: 720px;
+}
+
+.linha_cursos {
+
+    min-height: 600px !important;
+}
+
+.bloco_cursos {
+
+    min-height: 300px !important;
+}
+
+.fundo_cursos {
+
+    background-image: url("assets/images/backgrounds/background_cursos.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO INSCRICOES------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+.panel-inscricoes {
+
+    min-height: 620px !important;
+}
+
+.linha_inscricao {
+
+    min-height: 620px !important;
+}
+
+.bloco_inscricao {
+
+    min-height: 238px !important;
+}
+
+.fundo_inscricao {
+
+    background-image: url("assets/images/backgrounds/background_inscricao.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO CONTATO---------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
+
+.linha_contato {
+
+    min-height: 800px;
+}
+
+.fundo_contato {
+
+    background-image: url("assets/images/backgrounds/background_contato.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.image_separador_redes {
+    
+    height: 400;
+}
+
+.image_icone_redes {
+
+    width: 100;
+    height: 100;
+}
+
+/* 
+-------------------------------------------------------------------------------------------
+STYLES PARA A SESSÃO RODAPÉ----------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+*/
